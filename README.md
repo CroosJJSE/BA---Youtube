@@ -99,7 +99,7 @@
 # Business Analysis Notes
 
 ## MOSCOW Technique
-![alt text](image.png)
+![alt](img/image.png)
 
 - **Must Have**: Vital requirements/features that cannot be avoided.
 - **Should Have**: Significant tasks but not critical to project success.
