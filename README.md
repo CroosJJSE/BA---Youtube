@@ -249,3 +249,7 @@ A guidebook for software development:
 ## Tools for BA
 - **Documentation**: JIRA, Confluence.
 - **Artifacts**: BRD, Diagrams, Sprint Planning Docs, Retrospectives.
+
+
+Business Analysis Foundations
+Completed a course covering requirement elicitation, user stories, MoSCoW prioritization, and Agile methodologies. Gained skills in UML diagrams, root cause analysis, UAT, and tools like JIRA and Confluence to support stakeholder collaboration and process improvement
